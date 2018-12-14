@@ -1,0 +1,200 @@
+{
+  "db_version": 1,
+  "files": {
+    "AlcalaLopez_Social_Connectome_2017.tar.gz": {
+      "filename": "AlcalaLopez_Social_Connectome_2017.tar.gz",
+      "mtime": 1471279103,
+      "size": 22107
+    },
+    "Amft_Social_Affective_2015.tar.gz": {
+      "filename": "Amft_Social_Affective_2015.tar.gz",
+      "mtime": 1442519632,
+      "size": 915037
+    },
+    "Bzdok_Amygdala_2013.tar.gz": {
+      "filename": "Bzdok_Amygdala_2013.tar.gz",
+      "mtime": 1442519632,
+      "size": 2134835
+    },
+    "Bzdok_Morality_2012.tar.gz": {
+      "filename": "Bzdok_Morality_2012.tar.gz",
+      "mtime": 1442519633,
+      "size": 510699
+    },
+    "Bzdok_PMC_2015.tar.gz": {
+      "filename": "Bzdok_PMC_2015.tar.gz",
+      "mtime": 1456957746,
+      "size": 2230300
+    },
+    "Bzdok_TPJ_2013.tar.gz": {
+      "filename": "Bzdok_TPJ_2013.tar.gz",
+      "mtime": 1442519636,
+      "size": 2284179
+    },
+    "Bzdok_Trust_Beauty_2011.tar.gz": {
+      "filename": "Bzdok_Trust_Beauty_2011.tar.gz",
+      "mtime": 1442519638,
+      "size": 345004
+    },
+    "Bzdok_mPFC_2013.tar.gz": {
+      "filename": "Bzdok_mPFC_2013.tar.gz",
+      "mtime": 1476773894,
+      "size": 1168319
+    },
+    "Caspers_ActionImitationObservation_2010.tar.gz": {
+      "filename": "Caspers_ActionImitationObservation_2010.tar.gz",
+      "mtime": 1442519643,
+      "size": 1986862
+    },
+    "Chase_ReinforcementLearningALE_2015.tar.gz": {
+      "filename": "Chase_ReinforcementLearningALE_2015.tar.gz",
+      "mtime": 1458262879,
+      "size": 1028142
+    },
+    "Cieslik_DLPFC_2013.tar.gz": {
+      "filename": "Cieslik_DLPFC_2013.tar.gz",
+      "mtime": 1442519642,
+      "size": 1708776
+    },
+    "Cieslik_SAS_2015.tar.gz": {
+      "filename": "Cieslik_SAS_2015.tar.gz",
+      "mtime": 1442519646,
+      "size": 1723974
+    },
+    "Clos_Brocas_2013.tar.gz": {
+      "filename": "Clos_Brocas_2013.tar.gz",
+      "mtime": 1442519647,
+      "size": 2696573
+    },
+    "Eickhoff_dmPFC_2014.tar.gz": {
+      "filename": "Eickhoff_dmPFC_2014.tar.gz",
+      "mtime": 1453932036,
+      "size": 79084
+    },
+    "Eulenburg_Vestibular_2012.tar.gz": {
+      "filename": "Eulenburg_Vestibular_2012.tar.gz",
+      "mtime": 1442519651,
+      "size": 3249164
+    },
+    "Friebel_Pain_2011.tar.gz": {
+      "filename": "Friebel_Pain_2011.tar.gz",
+      "mtime": 1442519651,
+      "size": 1049719
+    },
+    "Genon_CBPrightPMd_2016.tar.gz": {
+      "filename": "Genon_CBPrightPMd_2016.tar.gz",
+      "mtime": 1457978871,
+      "size": 1229022
+    },
+    "Genon_LeftPMd_MultimodalCBP_2017.tar.gz": {
+      "filename": "Genon_LeftPMd_MultimodalCBP_2017.tar.gz",
+      "mtime": 1488556483,
+      "size": 1428895
+    },
+    "Goodkind_Psychiatric_2015.tar.gz": {
+      "filename": "Goodkind_Psychiatric_2015.tar.gz",
+      "mtime": 1442519652,
+      "size": 298502
+    },
+    "Hardwick_MotorLearning_2013.tar.gz": {
+      "filename": "Hardwick_MotorLearning_2013.tar.gz",
+      "mtime": 1442519654,
+      "size": 1795793
+    },
+    "Hoffstaedter_aMCC_FC.tar.gz": {
+      "filename": "Hoffstaedter_aMCC_FC.tar.gz",
+      "mtime": 1442519655,
+      "size": 1823139
+    },
+    "Hu_2015_self.tar.gz": {
+      "filename": "Hu_2015_self.tar.gz",
+      "mtime": 1452365678,
+      "size": 2579320
+    },
+    "Keuken_PerceptualDecision_2014.tar.gz": {
+      "filename": "Keuken_PerceptualDecision_2014.tar.gz",
+      "mtime": 1442519656,
+      "size": 610028
+    },
+    "Kohn_EmotionRegulation_2014.tar.gz": {
+      "filename": "Kohn_EmotionRegulation_2014.tar.gz",
+      "mtime": 1442519657,
+      "size": 1405794
+    },
+    "Krall_Attention_RTPJ_2015.tar.gz": {
+      "filename": "Krall_Attention_RTPJ_2015.tar.gz",
+      "mtime": 1442519657,
+      "size": 695836
+    },
+    "Kurth_Insula_2010.tar.gz": {
+      "filename": "Kurth_Insula_2010.tar.gz",
+      "mtime": 1447407371,
+      "size": 227546
+    },
+    "Langner_2018.tar.gz": {
+      "filename": "Langner_2018.tar.gz",
+      "mtime": 1526559094,
+      "size": 2258279
+    },
+    "Langner_SustainedAttention_2013.tar.gz": {
+      "filename": "Langner_SustainedAttention_2013.tar.gz",
+      "mtime": 1442519659,
+      "size": 1567531
+    },
+    "LefortBesnard_DMN_Shades_2017.tar.gz": {
+      "filename": "LefortBesnard_DMN_Shades_2017.tar.gz",
+      "mtime": 1485181856,
+      "size": 21458
+    },
+    "Mueller_CognitiveFlexibility_2014.tar.gz": {
+      "filename": "Mueller_CognitiveFlexibility_2014.tar.gz",
+      "mtime": 1442519660,
+      "size": 482907
+    },
+    "Nellesen_Alzheimers_2015.tar.gz": {
+      "filename": "Nellesen_Alzheimers_2015.tar.gz",
+      "mtime": 1442519661,
+      "size": 1363360
+    },
+    "NicklJockschat_AutismFace_2012.tar.gz": {
+      "filename": "NicklJockschat_AutismFace_2012.tar.gz",
+      "mtime": 1473688836,
+      "size": 1013149
+    },
+    "NicklJockschat_AutismVBM_2012.tar.gz": {
+      "filename": "NicklJockschat_AutismVBM_2012.tar.gz",
+      "mtime": 1459510156,
+      "size": 1203404
+    },
+    "NicklJockschat_Schizophrenia_2011.tar.gz": {
+      "filename": "NicklJockschat_Schizophrenia_2011.tar.gz",
+      "mtime": 1442519661,
+      "size": 295772
+    },
+    "Ray_FrontalPole_CBP_2015.tar.gz": {
+      "filename": "Ray_FrontalPole_CBP_2015.tar.gz",
+      "mtime": 1485297169,
+      "size": 1326872
+    },
+    "Reid_WorkingMemory_2015.tar.gz": {
+      "filename": "Reid_WorkingMemory_2015.tar.gz",
+      "mtime": 1453939234,
+      "size": 10382048
+    },
+    "Robinson_Hippocampus_2015.tar.gz": {
+      "filename": "Robinson_Hippocampus_2015.tar.gz",
+      "mtime": 1458141494,
+      "size": 811033
+    },
+    "Rottschy_WorkingMemory_2012.tar.gz": {
+      "filename": "Rottschy_WorkingMemory_2012.tar.gz",
+      "mtime": 1442519697,
+      "size": 17884224
+    },
+    "Schilbach_SocialNetworks_2012.tar.gz": {
+      "filename": "Schilbach_SocialNetworks_2012.tar.gz",
+      "mtime": 1442519696,
+      "size": 3231910
+    }
+  }
+}
