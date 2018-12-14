@@ -32,6 +32,7 @@ def pipeline():
     ]
 
     return sa_pipeline(
+        annex=annex,
         rename=[':(.*)\.study:.metadata/\\1.study'],
         incoming_pipeline=incoming_pipeline,
     )
